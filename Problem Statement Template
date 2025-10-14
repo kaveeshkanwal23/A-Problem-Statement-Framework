@@ -1,14 +1,16 @@
 What is the problem?
-[....]
+[Define in 2-4 sentences what the exact problem you want to solve]
 
 Who has the problem?
-[....]
+[Define the user type or the target persona who has the problem. If there are multiple user types/personas then write down who they are, and how they interact with the product when they face the problem]
 
 Why do I think that this is a problem? 
-[....]
+[This is the most important part of this framework. Are you conviced that this problem is worth to be solved? If yes, what makes you think that? What is the qualitative(eg; customer interviews) and quantitative(product KPI & metric analysis) data that you have gathered and analyzed, which convices you of solving this problem? You can summarize your analysis under this point, and share a link to the master data set which you fetched and analyzed.]
 
 What is the product and business impact of solving this problem? 
-[....]
+[Write down the product impact, i,e after you have solved this problem, how has the user's experience of using the product improved. Try to estimate and quantify the impact in terms of numbers, percentages etc]
+[Write down the business impact i,e whether solving this problem will reduce cost, save time or increase revenue or all all three. Try to estimate and quantify the impact in terms of numbers, percenatges etc. ]
 
 What will be my success metric? 
-[....]
+[Quantify again. For eg; solving this problem will help increase the quaterly revenue by x%, i,e from current Y$ to Z$. 
+Or For eg; solving this problem will reduce out customer support tickets by x% every week/month, i,e from count of Y tickets to Z tickets.]
